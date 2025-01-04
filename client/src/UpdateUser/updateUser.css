@@ -1,0 +1,22 @@
+.form-container {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px; /* Optional: Controls the width */
+  }
+  
+  .form-control {
+    border: 2px solid #3d5b55; /* Solid 1px border with light gray color */
+    border-radius: 5px; /* Optional: Adjust the border radius for rounded corners */
+  }
+  
+  .form-control:focus {
+    border-color: #007bff; /* Highlight border color on focus */
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.25); /* Subtle glow on focus */
+  }
+
+  .text-center{
+    margin-top: 10px;
+  }

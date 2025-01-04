@@ -1,0 +1,30 @@
+.userTable {
+  width: 60%;
+  margin: 50px auto;
+  padding: 40px;
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 1px 1px 8px;
+}
+
+.userTable table{
+    width: 100%;
+    margin-top: 30px;
+    
+    
+
+}
+
+.userTable table thead th{
+    background-color: rgb(23, 86, 86);
+    color: white;
+}
+
+.userTable table tbody td{
+    padding: 10px;
+    text-align: center;
+}
+
+.actionButton button{
+    margin-right: 10px;
+}
